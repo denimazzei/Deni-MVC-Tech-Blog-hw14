@@ -10,6 +10,7 @@ Navigate to the root folder , open an integrated terminal and 'run npm i'. To cr
 
 ## Example of Usage
 
+![Screen Shot 2021-11-02 at 9 38 36 PM](https://user-images.githubusercontent.com/84485576/140003034-6417d123-f206-463a-8761-16338d515694.png)
 
 
 ## Questions
